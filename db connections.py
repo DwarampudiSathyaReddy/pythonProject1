@@ -1,6 +1,6 @@
-from tkinter import *
+from mytkinter import *
 from PIL import ImageTk
-from tkinter import messagebox
+from mytkinter import messagebox
 import mysql.connector
 
 

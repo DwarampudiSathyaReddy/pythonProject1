@@ -1,5 +1,5 @@
-from tkinter import *
-from tkinter import messagebox
+from mytkinter import *
+from mytkinter import messagebox
 from PIL import ImageTk, Image
 
 def even_odd():

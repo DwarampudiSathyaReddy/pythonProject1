@@ -1,4 +1,4 @@
-import tkinter as tk
+import mytkinter as tk
 
 def submit():
     name = name_entry.get()
